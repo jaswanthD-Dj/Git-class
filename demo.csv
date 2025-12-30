@@ -1,0 +1,7 @@
+| Emp_ID | Name    | Department | Role            | Salary | Joining_Date | Location  | Status   |
+| -----: | ------- | ---------- | --------------- | -----: | ------------ | --------- | -------- |
+|    101 | Rahul   | IT         | Data Analyst    |  45000 | 12-01-2023   | Hyderabad | Active   |
+|    102 | Anjali  | HR         | HR Executive    |  38000 | 20-03-2022   | Bengaluru | Active   |
+|    103 | Suresh  | Finance    | Accountant      |  42000 | 05-07-2021   | Chennai   | Active   |
+|    104 | Priya   | IT         | ML Engineer     |  65000 | 18-09-2023   | Pune      | Active   |
+|    105 | Karthik | Sales      | Sales Executive |  30000 | 10-11-2020   | Mumbai    | Inactive |
